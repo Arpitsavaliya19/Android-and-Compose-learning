@@ -1,0 +1,217 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <!-- Day 1 -->
+    <string name="day_1_title">Day 1: Set Your Goal</string>
+    <string name="day_1_desc">Take time to clearly define one meaningful goal you want to achieve in the next 30 days. Write it down in simple words, make it realistic, and ensure it is something you can track daily. A clear goal gives direction and motivation.</string>
+
+    <!-- Day 2 -->
+    <string name="day_2_title">Day 2: Create a Morning Routine</string>
+    <string name="day_2_desc">Design a simple and repeatable morning routine that helps you start your day calmly and productively. This could include waking up on time, stretching, planning your day, or avoiding your phone for the first few minutes.</string>
+
+    <!-- Day 3 -->
+    <string name="day_3_title">Day 3: Learn Something New</string>
+    <string name="day_3_desc">Spend at least 20 minutes learning a new concept or skill. It can be related to your studies, career, or personal interest. Focus on understanding rather than memorizing, and note down what you learned.</string>
+
+    <!-- Day 4 -->
+    <string name="day_4_title">Day 4: Practice Gratitude</string>
+    <string name="day_4_desc">Pause for a moment and write down three things you are grateful for today. They can be small or big. Practicing gratitude helps improve mental clarity, positivity, and emotional balance.</string>
+
+    <!-- Day 5 -->
+    <string name="day_5_title">Day 5: Physical Activity</string>
+    <string name="day_5_desc">Engage in at least 15 minutes of physical activity such as walking, stretching, yoga, or exercise. Physical movement boosts energy levels, improves mood, and supports overall health.</string>
+
+    <!-- Day 6 -->
+    <string name="day_6_title">Day 6: Reduce Screen Time</string>
+    <string name="day_6_desc">Be mindful of how much time you spend on your phone or computer today. Reduce unnecessary screen usage and use that time for rest, reading, or meaningful offline activities.</string>
+
+    <!-- Day 7 -->
+    <string name="day_7_title">Day 7: Reflect on the Week</string>
+    <string name="day_7_desc">Look back at the past seven days and reflect on what you did well and what can be improved. A short weekly reflection helps you stay aware of your progress and mindset.</string>
+
+    <!-- Day 8 -->
+    <string name="day_8_title">Day 8: Improve Focus</string>
+    <string name="day_8_desc">Choose one important task and work on it without distractions for at least 30 minutes. Turn off notifications and focus fully. This practice strengthens concentration and productivity.</string>
+
+    <!-- Day 9 -->
+    <string name="day_9_title">Day 9: Read Something Useful</string>
+    <string name="day_9_desc">Read an article, documentation, or a book chapter that adds value to your knowledge. Focus on understanding the main ideas and how you can apply them in real life.</string>
+
+    <!-- Day 10 -->
+    <string name="day_10_title">Day 10: Organize Your Space</string>
+    <string name="day_10_desc">Clean and organize your workspace or room. A tidy environment reduces stress, improves focus, and makes it easier to stay productive throughout the day.</string>
+
+    <!-- Day 11 -->
+    <string name="day_11_title">Day 11: Practice Mindfulness</string>
+    <string name="day_11_desc">Spend at least 10 minutes being present in the moment. Focus on your breathing or surroundings without judgment. Mindfulness helps reduce stress and improve mental clarity.</string>
+
+    <!-- Day 12 -->
+    <string name="day_12_title">Day 12: Improve Communication</string>
+    <string name="day_12_desc">Practice clear and respectful communication today. Listen carefully when others speak and express your thoughts calmly. Good communication strengthens relationships and confidence.</string>
+
+    <!-- Day 13 -->
+    <string name="day_13_title">Day 13: Learn from Mistakes</string>
+    <string name="day_13_desc">Reflect on a recent mistake and identify what it taught you. Mistakes are opportunities to learn and grow when you analyze them honestly and move forward.</string>
+
+    <!-- Day 14 -->
+    <string name="day_14_title">Day 14: Digital Detox</string>
+    <string name="day_14_desc">Avoid social media or entertainment apps for the day. Use this time to focus on yourself, your goals, or meaningful real-world interactions.</string>
+
+    <!-- Day 15 -->
+    <string name="day_15_title">Day 15: Halfway Check</string>
+    <string name="day_15_desc">You are halfway through the challenge. Review your progress, recognize your effort, and make small adjustments if needed to stay consistent for the remaining days.</string>
+
+    <!-- Day 16 -->
+    <string name="day_16_title">Day 16: Improve Sleep Routine</string>
+    <string name="day_16_desc">Try to go to bed earlier and reduce screen exposure before sleeping. Quality sleep improves focus, mood, and physical health.</string>
+
+    <!-- Day 17 -->
+    <string name="day_17_title">Day 17: Help Someone</string>
+    <string name="day_17_desc">Do a small act of kindness today, such as helping someone, giving advice, or offering support. Helping others builds empathy and personal satisfaction.</string>
+
+    <!-- Day 18 -->
+    <string name="day_18_title">Day 18: Learn from Experts</string>
+    <string name="day_18_desc">Learn from experienced people by watching a talk, reading a blog, or following expert advice in your field. Pay attention to practical insights.</string>
+
+    <!-- Day 19 -->
+    <string name="day_19_title">Day 19: Improve Time Management</string>
+    <string name="day_19_desc">Plan your tasks for the day and prioritize important work. Managing time effectively reduces stress and improves productivity.</string>
+
+    <!-- Day 20 -->
+    <string name="day_20_title">Day 20: Practice Self-Discipline</string>
+    <string name="day_20_desc">Complete one task today even if you feel unmotivated. Discipline helps you stay consistent and achieve long-term goals.</string>
+
+    <!-- Day 21 -->
+    <string name="day_21_title">Day 21: Build a Healthy Habit</string>
+    <string name="day_21_desc">Repeat a positive habit you want to continue beyond this challenge. Habits built with consistency lead to long-term improvement.</string>
+
+    <!-- Day 22 -->
+    <string name="day_22_title">Day 22: Learn by Teaching</string>
+    <string name="day_22_desc">Explain something you have learned to someone else or write it down. Teaching reinforces understanding and confidence.</string>
+
+    <!-- Day 23 -->
+    <string name="day_23_title">Day 23: Reduce Stress</string>
+    <string name="day_23_desc">Identify what causes stress today and take steps to relax. This may include rest, music, breathing exercises, or quiet time.</string>
+
+    <!-- Day 24 -->
+    <string name="day_24_title">Day 24: Improve Problem Solving</string>
+    <string name="day_24_desc">Solve a small problem or challenge using logical thinking. Focus on understanding the problem before jumping to a solution.</string>
+
+    <!-- Day 25 -->
+    <string name="day_25_title">Day 25: Review Your Goals</string>
+    <string name="day_25_desc">Check your main goal again and evaluate how close you are. Adjust your plan if needed and stay focused.</string>
+
+    <!-- Day 26 -->
+    <string name="day_26_title">Day 26: Learn Consistently</string>
+    <string name="day_26_desc">Spend time improving your skills through consistent practice. Small daily improvements create strong long-term results.</string>
+
+    <!-- Day 27 -->
+    <string name="day_27_title">Day 27: Stay Positive</string>
+    <string name="day_27_desc">Be aware of negative thoughts and replace them with positive and solution-focused thinking. A positive mindset improves resilience.</string>
+
+    <!-- Day 28 -->
+    <string name="day_28_title">Day 28: Reflect on Growth</string>
+    <string name="day_28_desc">Think about how much you have grown since day one. Acknowledge your effort and the habits you have built.</string>
+
+    <!-- Day 29 -->
+    <string name="day_29_title">Day 29: Prepare for the Future</string>
+    <string name="day_29_desc">Plan how you will continue these habits after the challenge ends. Sustainable growth comes from long-term consistency.</string>
+
+    <!-- Day 30 -->
+    <string name="day_30_title">Day 30: Celebrate Your Success</string>
+    <string name="day_30_desc">Celebrate completing the 30-day challenge. Appreciate your dedication and commit to maintaining the positive changes you have made.</string>
+
+
+
+
+    <!-- Day 1 -->
+    <string name="day1brief">Set a clear goal to guide your next 30 days.</string>
+
+    <!-- Day 2 -->
+    <string name="day2brief">Create a simple morning routine to start your day right.</string>
+
+    <!-- Day 3 -->
+    <string name="day3brief">Learn something new to keep your mind active.</string>
+
+    <!-- Day 4 -->
+    <string name="day4brief">Practice gratitude and focus on positive moments.</string>
+
+    <!-- Day 5 -->
+    <string name="day5brief">Engage in physical activity to boost energy.</string>
+
+    <!-- Day 6 -->
+    <string name="day6brief">Reduce screen time to improve focus.</string>
+
+    <!-- Day 7 -->
+    <string name="day7brief">Reflect on your week and learn from it.</string>
+
+    <!-- Day 8 -->
+    <string name="day8brief">Focus on one task without distractions.</string>
+
+    <!-- Day 9 -->
+    <string name="day9brief">Spend time reading to gain new knowledge.</string>
+
+    <!-- Day 10 -->
+    <string name="day10brief">Organize your space for better productivity.</string>
+
+    <!-- Day 11 -->
+    <string name="day11brief">Practice mindfulness and stay present.</string>
+
+    <!-- Day 12 -->
+    <string name="day12brief">Improve communication through active listening.</string>
+
+    <!-- Day 13 -->
+    <string name="day13brief">Learn and grow from your mistakes.</string>
+
+    <!-- Day 14 -->
+    <string name="day14brief">Take a short break from digital devices.</string>
+
+    <!-- Day 15 -->
+    <string name="day15brief">Review your progress halfway through.</string>
+
+    <!-- Day 16 -->
+    <string name="day16brief">Improve your sleep routine for better health.</string>
+
+    <!-- Day 17 -->
+    <string name="day17brief">Help someone and spread kindness.</string>
+
+    <!-- Day 18 -->
+    <string name="day18brief">Learn valuable insights from experts.</string>
+
+    <!-- Day 19 -->
+    <string name="day19brief">Manage your time more effectively.</string>
+
+    <!-- Day 20 -->
+    <string name="day20brief">Build self-discipline through consistency.</string>
+
+    <!-- Day 21 -->
+    <string name="day21brief">Develop a healthy daily habit.</string>
+
+    <!-- Day 22 -->
+    <string name="day22brief">Strengthen learning by teaching others.</string>
+
+    <!-- Day 23 -->
+    <string name="day23brief">Reduce stress and relax your mind.</string>
+
+    <!-- Day 24 -->
+    <string name="day24brief">Practice calm and logical problem-solving.</string>
+
+    <!-- Day 25 -->
+    <string name="day25brief">Review and refine your goals.</string>
+
+    <!-- Day 26 -->
+    <string name="day26brief">Stay consistent with learning and growth.</string>
+
+    <!-- Day 27 -->
+    <string name="day27brief">Maintain a positive and focused mindset.</string>
+
+    <!-- Day 28 -->
+    <string name="day28brief">Reflect on your personal growth.</string>
+
+    <!-- Day 29 -->
+    <string name="day29brief">Plan ahead for future goals.</string>
+
+    <!-- Day 30 -->
+    <string name="day30brief">Celebrate completing your 30-day journey.</string>
+
+</resources>
