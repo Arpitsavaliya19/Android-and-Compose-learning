@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Affirmation</string>
+    <string name="affirmation1">I am disciplined, focused, and improving my skills every day.</string>
+    <string name="affirmation2">I learn from mistakes and convert them into progress.</string>
+    <string name="affirmation3">I build strong foundations through consistent effort.</string>
+    <string name="affirmation4">I remain calm and confident while solving complex problems.</string>
+    <string name="affirmation5">My persistence today creates my success tomorrow.</string>
+    <string name="affirmation6">I trust the process and execute with clarity and purpose.</string>
+</resources>
