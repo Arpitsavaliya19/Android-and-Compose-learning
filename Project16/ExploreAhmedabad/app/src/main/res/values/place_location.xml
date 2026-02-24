@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================= RESTAURANTS ================= -->
+    <string name="agashiye_location">The House of MG, Lal Darwaja, Ahmedabad</string>
+    <string name="rajwadu_location">Jivraj Tolnaka, Ahmedabad</string>
+    <string name="gordhan_thal_location">Satellite Road, Ahmedabad</string>
+    <string name="vishalla_location">Vasna Road, Ahmedabad</string>
+    <string name="upper_crust_location">Navrangpura, Ahmedabad</string>
+    <string name="tomatos_location">Ashram Road, Ahmedabad</string>
+    <string name="mirch_masala_location">Vastrapur, Ahmedabad</string>
+    <string name="tinello_location">Hyatt Regency, Vastrapur, Ahmedabad</string>
+    <string name="swati_snacks_location">Ellis Bridge, Ahmedabad</string>
+    <string name="jasuben_pizza_location">Law Garden, Ahmedabad</string>
+    <string name="under_the_neem_location">House of MG, Lal Darwaja, Ahmedabad</string>
+
+    <!-- ================= HISTORICAL PLACES ================= -->
+    <string name="sabarmati_ashram_location">Ashram Road, Ahmedabad</string>
+    <string name="adalaj_stepwell_location">Adalaj, Gandhinagar (Near Ahmedabad)</string>
+    <string name="sidi_saiyyed_mosque_location">Lal Darwaja, Ahmedabad</string>
+    <string name="bhadra_fort_location">Bhadra, Ahmedabad</string>
+    <string name="teen_darwaza_location">Old City, Ahmedabad</string>
+    <string name="rani_no_hajiro_location">Manek Chowk, Ahmedabad</string>
+    <string name="hutheesing_jain_temple_location">Shahibaug, Ahmedabad</string>
+    <string name="sarkhej_roza_location">Sarkhej, Ahmedabad</string>
+    <string name="jhulta_minar_location">Sarangpur, Ahmedabad</string>
+
+
+    <!-- ================= SHOPPING PLACES ================= -->
+    <string name="law_garden_market_location">Ellis Bridge Area, Ahmedabad</string>
+    <string name="manek_chowk_market_location">Old City, Ahmedabad</string>
+    <string name="cg_road_location">Navrangpura, Ahmedabad</string>
+    <string name="alpha_one_mall_location">Vastrapur, Ahmedabad</string>
+    <string name="ahmedabad_one_mall_location">Vastrapur, Ahmedabad</string>
+    <string name="himayatnagar_market_location">Himayatnagar, Ahmedabad</string>
+    <string name="lal_darwaja_market_location">Lal Darwaja, Ahmedabad</string>
+    <string name="dhalgarwad_market_location">Kalupur, Ahmedabad</string>
+    <string name="isanpur_market_location">Isanpur, Ahmedabad</string>
+    <string name="ravivari_market_location">Jamalpur, Ahmedabad</string>
+    <string name="vastrapur_market_location">Vastrapur, Ahmedabad</string>
+    <string name="sindhi_market_location">Kalupur, Ahmedabad</string>
+
+    <!-- ================= Parks ================= -->
+    <string name="kankaria_lake_location">Maninagar, Ahmedabad</string>
+    <string name="riverfront_park_location">Ashram Road, Ahmedabad</string>
+    <string name="law_garden_location">Ellis Bridge Area, Ahmedabad</string>
+    <string name="parimal_garden_location">Parimal Cross Road, Ellis Bridge, Ahmedabad</string>
+    <string name="victoria_garden_location">Bhadra, Old City, Ahmedabad</string>
+    <string name="vastrapur_lake_garden_location">Vastrapur, Ahmedabad</string>
+    <string name="palladium_mall_location">Thaltej–SG Highway, Ahmedabad</string>
+
+
+</resources>

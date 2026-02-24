@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Explore Ahmedabad</string>
+    <!-- Splash / Onboarding -->
+    <string name="splash_tagline">Explore Your City</string>
+
+    <!-- Home / Dashboard -->
+    <string name="home_title">Home</string>
+    <string name="home_search_hint">Search places...</string>
+    <string name="featured_places">Featured Places</string>
+    <string name="categories_title">Categories</string>
+
+    <!-- Categories -->
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_historical">Historical Places</string>
+    <string name="category_shopping">Shopping Places</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_events">Events</string>
+    <string name="category_tours">Tours</string>
+
+    <!-- Place / Detail Screen -->
+    <string name="place_details_title">Place Details</string>
+    <string name="place_description">Description</string>
+    <string name="place_address">Address</string>
+    <string name="place_timings">Timings</string>
+    <string name="place_rating">Rating</string>
+    <string name="place_get_directions">Get Directions</string>
+    <string name="place_add_favorite">Add to Favorites</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Favorites</string>
+    <string name="favorites_empty">No favorites added yet</string>
+
+    <!-- Search Screen -->
+    <string name="search_title">Search</string>
+    <string name="search_hint">Type to search places...</string>
+    <string name="search_no_results">No results found</string>
+
+    <!-- Profile / Settings Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_language">Language</string>
+    <string name="logout">Logout</string>
+
+    <!-- Common Buttons -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_back">Back</string>
+    <string name="button_home">Home</string>
+
+    <!-- Sample Place Names -->
+    <string name="restaurant_agashiye">Agashiye</string>
+    <string name="restaurant_vishalla">Vishalla</string>
+    <string name="restaurant_rajwadu">Rajwadu</string>
+    <string name="restaurant_gordhan_thal">Gordhan Thal</string>
+    <string name="historical_sabarmati_ashram">Sabarmati Ashram</string>
+    <string name="historical_jama_masjid">Jama Masjid</string>
+    <string name="historical_bhadra_fort">Bhadra Fort</string>
+    <string name="historical_sidi_saiyyed">Sidi Saiyyed Mosque</string>
+    <string name="historical_adalaj_stepwell">Adalaj Stepwell</string>
+    <string name="historical_jhulta_minar">Jhulta Minar</string>
+    <string name="historical_sarkhej_roza">Sarkhej Roza</string>
+    <string name="historical_teen_darwaza">Teen Darwaza</string>
+    <string name="historical_hutheesing">Hutheesing Jain Temple</string>
+    <string name="historical_manek_chowk">Manek Chowk Bhadra Kali</string>
+    <string name="shopping_manek_chowk">Manek Chowk Market</string>
+    <string name="shopping_lal_darwaja">Lal Darwaja Market</string>
+    <string name="shopping_dhalgarwad">Dhalgarwad Market</string>
+    <string name="shopping_sindhi_market">Sindhi Market</string>
+    <string name="shopping_ravivari">Ravivari Market</string>
+    <string name="shopping_rani_no_hajiro">Rani No Hajiro</string>
+    <string name="shopping_ghantakarna">Ghantakarna Mahavir Market</string>
+    <string name="shopping_nexus">Nexus Ahmedabad One</string>
+    <string name="shopping_palladium">Palladium Ahmedabad</string>
+    <string name="shopping_himalaya_mall">Himalaya Mall</string>
+    <string name="shopping_gulmohar_park">Gulmohar Park Mall</string>
+    <string name="shopping_cg_road">C.G. Road</string>
+    <string name="shopping_vaibhav_laxmi">Vaibhav Laxmi Market</string>
+    <string name="shopping_ratanpol">Ratanpol Market</string>
+    <string name="shopping_bhid_bhanjan">Bhid Bhanjan Market</string>
+    <string name="under_the_neem_name">Under The Neem</string>
+    <string name="swati_snacks_name">Swati Snacks</string>
+    <string name="law_garden_market_name">Law Garden Market</string>
+    <string name="lal_darwaja_market_name">Lal Darwaja Market</string>
+    <string name="kankaria_lake_name">Kankaria Lake</string>
+    <string name="victoria_garden_name">Victoria Garden</string>
+    <string name="riverfront_park_name">Sabarmati Riverfront</string>
+    <string name="vastrapur_lake_garden_name">Vastrapur Lake Garden</string>
+    <string name="law_garden_name">Law Garden</string>
+    <string name="parimal_garden_name">Parimal Garden</string>
+
+
+
+
+
+
+
+
+
+    <string name="Splash_Screen_Tagline">
+        “Explore Ahmedabad invites you to discover the city’s rich heritage,
+        iconic architecture, vibrant culture, and famous local flavors, all in one place.
+        Experience the spirit of Ahmedabad through its history, traditions, and must-visit
+        destinations.
+    </string>
+
+
+</resources>

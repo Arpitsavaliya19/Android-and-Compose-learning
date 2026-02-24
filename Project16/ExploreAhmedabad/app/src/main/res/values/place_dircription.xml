@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="adalaj_stepwell_desc">
+    Adalaj Stepwell is a stunning example of Indian architecture built in the 15th century.
+    The stepwell was designed to provide water while protecting visitors from harsh sunlight.
+    Its intricate carvings and stonework display remarkable craftsmanship.
+    The structure has five levels connected by beautifully carved staircases.
+    It is both an architectural marvel and a historical water conservation system.
+    Today, it is a popular tourist attraction near Ahmedabad.
+    </string>
+
+    <string name="sabarmati_ashram_desc">
+    Sabarmati Ashram is one of the most important historical landmarks of India and was home to Mahatma Gandhi for many years.
+    It served as a center for India’s freedom movement, including the famous Dandi March.
+    The ashram reflects simplicity, peace, and the philosophy of non-violence.
+    Visitors can explore museums, photographs, and Gandhi’s living quarters.
+    The peaceful environment makes it a place for reflection and learning.
+    It attracts tourists, historians, and students from across the world.
+    </string>
+
+    <string name="sidi_saiyyed_mosque_desc">
+    Sidi Saiyyed Mosque is famous for its exquisite stone lattice work known as jali.
+    Built in 1573, it represents the finest example of Indo-Islamic architecture.
+    The iconic Tree of Life jali has become a symbol of Ahmedabad.
+    The mosque is relatively small but artistically significant.
+    Its detailed carvings attract architects, photographers, and tourists.
+    It reflects the rich cultural heritage of the city.
+    </string>
+
+    <string name="bhadra_fort_desc">
+    Bhadra Fort was built in the 15th century and marks the historic center of Ahmedabad.
+    The fort complex includes palaces, temples, and open courtyards.
+    It once served as a royal residence and administrative hub.
+    Today, it is a lively cultural space with events and markets.
+    The fort connects the old city with modern Ahmedabad.
+    It represents the city’s royal and cultural past.
+    </string>
+
+    <string name="hutheesing_jain_temple_desc">
+    Hutheesing Jain Temple is a beautiful marble temple dedicated to Lord Dharmanatha.
+    Built in the 19th century, it showcases intricate Jain architecture.
+    The temple features carved pillars, domes, and a peaceful courtyard.
+    It is an important religious site for the Jain community.
+    The calm atmosphere attracts both devotees and tourists.
+    The temple stands as a symbol of art and spirituality.
+    </string>
+
+    <string name="sarkhej_roza_desc">
+    Sarkhej Roza is a magnificent architectural complex that combines Islamic, Hindu, and Jain styles.
+    Built in the 15th century, it served as a religious and cultural center.
+    The complex includes mosques, tombs, and a large water tank.
+    It is often referred to as the Acropolis of Ahmedabad.
+    The calm surroundings make it ideal for heritage exploration.
+    It reflects the architectural brilliance of medieval Gujarat.
+    </string>
+
+    <string name="jhulta_minar_desc">
+    Jhulta Minara, also known as the Shaking Minarets, is a unique architectural mystery.
+    Built in the 15th century, the minarets vibrate when one is shaken.
+    The structure showcases advanced engineering techniques of the past.
+    Despite earthquakes, the minarets have survived for centuries.
+    It attracts engineers, architects, and curious visitors.
+    The site represents the scientific knowledge of medieval India.
+    </string>
+
+    <string name="teen_darwaza_desc">
+    Teen Darwaza is a historic triple-arched gateway built in the 15th century.
+    It once served as the royal entrance to the city.
+    The structure is located near Bhadra Fort in the old city.
+    It reflects Islamic architectural style with detailed carvings.
+    The area around it remains lively and culturally rich.
+    Teen Darwaza is an important symbol of Ahmedabad’s heritage.
+    </string>
+
+    <!--=======================Restaurants==============================-->
+
+    <string name="agashiye_desc">
+    Agashiye is a heritage restaurant offering authentic Gujarati cuisine.
+    Located inside a traditional haveli, it provides a royal dining experience.
+    The restaurant serves food in a traditional thali style.
+    Guests can enjoy local flavors prepared using age-old recipes.
+    The rooftop seating adds charm to the dining experience.
+    It is ideal for those who want to explore Gujarati culture through food.
+    </string>
+
+    <string name="rajwadu_desc">
+    Rajwadu is a themed restaurant that reflects rural Gujarati lifestyle.
+    The ambiance resembles a traditional village with ethnic decor.
+    It offers a wide variety of authentic Gujarati dishes.
+    Live folk music and cultural elements enhance the experience.
+    The restaurant focuses on traditional hospitality and flavors.
+    It is a popular destination for families and tourists.
+    </string>
+
+    <string name="gordhan_thal_desc">
+    Gordhan Thal is well-known for its rich and flavorful Gujarati thali.
+    The restaurant serves unlimited traditional dishes in a comfortable setting.
+    It is famous for maintaining taste and quality over the years.
+    The menu includes a variety of sweets, snacks, and main courses.
+    Service is quick and customer-friendly.
+    It is a must-visit place for Gujarati food lovers.
+    </string>
+
+    <string name="vishalla_desc">
+    Vishalla is a cultural dining destination known for traditional Gujarati meals.
+    The restaurant showcases folk art, utensils, and village-style seating.
+    Food is served on leaf plates to enhance authenticity.
+    It also hosts cultural performances and exhibitions.
+    The experience goes beyond food and reflects local traditions.
+    It is ideal for visitors seeking a cultural dining experience.
+    </string>
+
+    <string name="swati_snacks_desc">
+    Swati Snacks is famous for its light and healthy Gujarati snacks.
+    The restaurant offers dishes like handvo, dhokla, and patra.
+    It is popular among locals for quick and tasty meals.
+    The ambiance is simple and welcoming.
+    The food focuses on freshness and traditional flavors.
+    It is a great place for casual dining.
+    </string>
+
+    <string name="under_the_neem_desc">
+    Under The Neem is a heritage restaurant offering traditional Gujarati cuisine.
+    Located inside a historic pol house, it provides an authentic cultural ambiance.
+    Meals are served in a traditional Gujarati thali format.
+    The restaurant focuses on home-style flavors and fresh ingredients.
+    The rustic setting enhances the dining experience.
+    It is ideal for visitors seeking local food and culture.
+    </string>
+
+
+    <!--=======================Shopping==============================-->
+
+    <string name="manek_chowk_market_desc">
+    Manek Chowk transforms from a jewelry market by day to a food hub at night.
+    It is located in the heart of the old city.
+    The market offers traditional ornaments and street food.
+    Night-time food stalls are extremely popular.
+    The area reflects the culture and lifestyle of Ahmedabad.
+    It is a unique shopping and dining destination.
+    </string>
+
+    <string name="lal_darwaja_market_desc">
+    Lal Darwaja Market is one of the busiest shopping areas in Ahmedabad.
+    It offers a wide range of clothes, accessories, and household items.
+    The market is popular for affordable shopping.
+    It remains crowded throughout the day.
+    Street vendors and small shops dominate the area.
+    It reflects the everyday life of the city.
+    </string>
+
+    <string name="ravivari_market_desc">
+    Ravivari Market is a famous Sunday flea market in Ahmedabad.
+    It offers second-hand goods, antiques, books, and tools.
+    The market attracts bargain hunters from across the city.
+    Prices are low and negotiation is common.
+    It has a unique and vibrant atmosphere.
+    The market represents informal street commerce.
+    </string>
+
+    <string name="sindhi_market_desc">
+    Sindhi Market is well-known for budget-friendly clothing and fabrics.
+    It is popular among locals for daily shopping needs.
+    The market offers a variety of ready-made garments.
+    It is always lively and crowded.
+    Bargaining is a common practice here.
+    It is ideal for economical shopping.
+    </string>
+
+    <string name="dhalgarwad_market_desc">
+    Dhalgarwad Market is famous for traditional fabrics and ethnic wear.
+    It specializes in dupattas, sarees, and dress materials.
+    The market reflects Ahmedabad’s textile heritage.
+    Many shops are family-run and decades old.
+    It is a preferred destination for traditional shopping.
+    The area remains busy throughout the year.
+    </string>
+
+    <string name="law_garden_market_desc">
+    Law Garden Market is famous for traditional Gujarati handicrafts and clothing.
+    It is known for colorful chaniya cholis, oxidized jewelry, and souvenirs.
+    The market becomes lively in the evening hours.
+    Bargaining is common and part of the shopping experience.
+    Street food stalls add to the vibrant atmosphere.
+    It is a favorite shopping spot for tourists.
+    </string>
+
+
+    <!--=======================Parks==============================-->
+
+    <string name="kankaria_lake_desc">
+    Kankaria Lake is one of the most popular recreational spots in Ahmedabad.
+    It offers boating, a zoo, toy train, and amusement rides.
+    The lakefront is well-developed and family-friendly.
+    It hosts cultural events and festivals throughout the year.
+    Jogging tracks and gardens surround the lake.
+    It is ideal for leisure and entertainment.
+    </string>
+
+    <string name="riverfront_park_desc">
+    Sabarmati Riverfront Park is a modern urban development project.
+    It offers walking paths, gardens, and cycling tracks.
+    The area provides scenic views of the river.
+    It is popular for morning walks and evening outings.
+    The park hosts events and exhibitions.
+    It represents the modern face of Ahmedabad.
+    </string>
+
+    <string name="law_garden_desc">
+    Law Garden is a centrally located public park in Ahmedabad.
+    It is popular for evening relaxation and street shopping nearby.
+    The garden offers open green spaces and walking paths.
+    It is suitable for families and children.
+    The park is surrounded by food stalls and markets.
+    It serves as a recreational hub in the city.
+    </string>
+
+    <string name="parimal_garden_desc">
+    Parimal Garden is a peaceful green space near the riverfront.
+    It is popular for yoga, walking, and relaxation.
+    The garden has well-maintained lawns and seating areas.
+    It is suitable for all age groups.
+    The calm atmosphere attracts morning walkers.
+    It is an important urban park in Ahmedabad.
+    </string>
+
+    <string name="victoria_garden_desc">
+    Victoria Garden is one of the oldest gardens in Ahmedabad.
+    It is located near Bhadra Fort in the old city.
+    The garden offers greenery amid historic surroundings.
+    It is ideal for short breaks and relaxation.
+    The park has shaded seating areas.
+    It adds green balance to the old city area.
+    </string>
+
+    <string name="vastrapur_lake_garden_desc">
+    Vastrapur Lake Garden is a popular urban park located near Vastrapur Lake.
+    The garden offers well-maintained walking tracks and open green spaces.
+    It is a favorite spot for morning walkers and fitness enthusiasts.
+    The lake adds scenic beauty and a calm atmosphere to the area.
+    Families often visit the garden for leisure and relaxation.
+    The park is well-connected and surrounded by residential and commercial zones.
+    It serves as an important recreational space in western Ahmedabad.
+    </string>
+
+    <string name="palladium_mall_desc">
+    Palladium Mall is a premium luxury shopping destination in Ahmedabad.
+    It features high-end international and Indian brands.
+    The mall offers a modern and elegant shopping environment.
+    It includes fine-dining restaurants, cafés, and entertainment options.
+    The architecture and interiors reflect a high-class lifestyle experience.
+    Palladium Mall is ideal for luxury shopping and leisure activities.
+    </string>
+
+
+</resources>
